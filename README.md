@@ -8,5 +8,5 @@
 
 
 
-#PS: you can add your own stocks by updating the stocks array
-#    have fun!
+PS: you can add your own stocks by updating the stocks array
+    have fun!
