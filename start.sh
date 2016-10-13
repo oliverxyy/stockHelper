@@ -10,6 +10,15 @@ stocks=(
     sh600579
     sh600581
     sz000006
+    sz000795
+    sz002226
+    sh600010
+    sz002505
+    sh600261
+    sh600703
+    sz300184
+    sz002662
+    sz000898
 )
 #set interval,default unit is second
 interval=5 #s/m/h
